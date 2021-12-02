@@ -1,0 +1,21 @@
+{
+    "userName": {
+        "firstname": "KIRAN",
+        "lastname": "KALYAN"
+    },
+    "dateOfBirth": {
+        "day": 12,
+        "month": 7,
+        "year": 33
+    },
+    "company": "capgemini",
+    "address": {
+        "address1": "Restricted",
+        "city": "Madanapalle",
+        "state": 4,
+        "pincode": 56565,
+        "country": "United States"
+    },
+    "mobileNumber": 7799886655,
+    "aliasAddress": "classified"
+}
