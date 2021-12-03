@@ -34,7 +34,7 @@ Framework and Language versions are used in the  `package.json` :
 ```
 
 ---
-Run the following the commands from the root project [My Project](https://github.com/kiran-purum/WEBDRIVERIOMOCHATS) to execute :
+Run the following the commands from the root project : [My Project](https://github.com/kiran-purum/WEBDRIVERIOMOCHATS) to execute :
 
 ```sh
 npm install
@@ -44,12 +44,6 @@ Used to run the `test cases` :
 
 ```sh
 npm run test
-```
-
-Used to make `Report` :
-
-```sh
-npm run report
 ```
 
 ---
@@ -81,9 +75,16 @@ To push the code into git `using branch name` :
 git push origin -u branch_name
 ```
 
+
 ### Run this commands to clone from git
 
 *Make sure Your are in the same branch, Which is used to push*
+
+To clone the repositor  from git :
+
+```sh
+git clone repositrory link
+```
 
 To fetch the code from git :
 
